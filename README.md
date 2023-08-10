@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tadeu Neres</h1>
-<h3 align="center">A developer developer from Brazil.</h3>
+<h3 align="center">A developing developer from Brazil.</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, HTML, CSS.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TadeuN1](https://github.com/TadeuN1)
 
 - 💬 Ask me about **JavaScript**
 
