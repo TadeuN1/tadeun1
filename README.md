@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, HTML, CSS.**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript** - **ReactJS** - **CSS**
 
 - 📫 How to reach me **tadeunrs@gmail.com**
 
