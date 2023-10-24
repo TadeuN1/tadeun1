@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tadeu Neres</h1>
 <h3 align="center">A developing developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, NodeJS, API Rest and Spring Boot .**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, NodeJS, API Rest and Spring Boot .**
 
 - 💬 Ask me about **JavaScript** - **ReactJS**
 
