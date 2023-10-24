@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **tadeunrs@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/tadeuneres](www.linkedin.com/in/tadeuneres)
-
 - ⚡ Fun fact **I like to spend my time exercising my mind by playing games and doing housework.**
 
 <h3 align="left">Connect with me:</h3>
