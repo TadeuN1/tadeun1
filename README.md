@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, NodeJS, API Rest and Spring Boot.**
 
-- 💬 Ask me about **JavaScript- ReactJs**
+- 💬 Ask me about **JavaScript - AngularJs**
 
 - 📫 How to reach me **tadeunrs@gmail.com**
 
