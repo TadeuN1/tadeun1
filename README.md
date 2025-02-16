@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, NodeJS, API Rest and Spring Boot.**
 
-- 💬 Ask me about **JavaScript - Angular Framework**
-
 - 📫 How to reach me **tadeunrs@gmail.com**
 
 - ⚡ Fun fact **I like to spend my time exercising my mind by playing games and doing housework.**
